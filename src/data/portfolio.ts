@@ -64,7 +64,7 @@ export const aboutNarrative = [
 export const aboutSpecs = [
   { label: "Institution", value: "DTU" },
   { label: "Program", value: "B.Tech Mechanical Engineering" },
-  { label: "CGPA", value: "8.23 / 10.0" },
+  { label: "CGPA", value: "8.41 / 10.0" },
   { label: "Graduation", value: "May 2027" },
   { label: "Focus", value: "Vehicle Dynamics, CAD, FEA, and Manufacturing" },
   { label: "Location", value: "Delhi, India" },
