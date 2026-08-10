@@ -254,7 +254,7 @@ export const experienceTimeline: ExperienceEntry[] = [
   {
     organization: "Team DTU Supermileage",
     role: "Head of Aerodynamics and Chassis",
-    duration: "Sep 2023 - Present",
+    duration: "Sep 2023 - May 2026",
     logo: "/assets/Team DTU Supermileage.png",
     details: [
       {
