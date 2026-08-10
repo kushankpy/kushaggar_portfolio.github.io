@@ -9,7 +9,7 @@ import { fadeUp, staggerContainer } from "@/lib/motion";
 
 const heroStats = [
   { value: "02", label: "Core Projects" },
-  { value: "04", label: "Technical Roles" },
+  { value: "05", label: "Technical Roles" },
   { value: "08+", label: "Engineering Domains" },
   { value: "2027", label: "Graduate Target" },
 ];
